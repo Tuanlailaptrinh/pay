@@ -12,12 +12,7 @@ const USER = {
       "DEVELOPER"
   ],
   banks: [
-      {
-          name: "VPBANK",
-          logo: "vp.png",
-          number: "530062007",
-          owner: "NGUYEN HUYNH THAI TUAN"
-      },
+      
       {
           name: "MB Bank ",
           logo: "mb.png",
